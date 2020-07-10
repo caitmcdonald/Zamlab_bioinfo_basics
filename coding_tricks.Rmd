@@ -29,8 +29,8 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Command line basics:
 
 1. [Downloading and installing software](#Downloading-and-installing)
-1. [Navigating directories](#Navigating directories)
-1. [Viewing directories](#Viewing-files)
+1. [Navigating directories](#Navigating-directories)
+1. [Viewing directories](#Viewing-directories)
 1. [Viewing files](#Viewing-files)
 1. [Viewing program progress](#Viewing-program-progress)
 

@@ -21,8 +21,8 @@ Zamudio lab coding tips and tricks
 #### Command line basics:
 
 1.  [Downloading and installing software](#Downloading-and-installing)
-2.  [Navigating directories](#Navigating%20directories)
-3.  [Viewing directories](#Viewing-files)
+2.  [Navigating directories](#Navigating-directories)
+3.  [Viewing directories](#Viewing-directories)
 4.  [Viewing files](#Viewing-files)
 5.  [Viewing program progress](#Viewing-program-progress)
 
