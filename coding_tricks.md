@@ -10,7 +10,7 @@ Zamudio lab coding tips and tricks
 #### Find help with:
 
 1.  [Command line](#Command-line-basics)
-2.  [Accessing Cornell BioHPC]()
+2.  Accessing Cornell BioHPC
 3.  [Slurm](https://github.com/caitmcdonald/parallel_computing/blob/master/slurm_scripting.md)
 4.  [git and Github](https://github.com/caitmcdonald/Zamudio_git_intro/blob/master/README.md)
 5.  [R tricks](#R-tricks)
@@ -28,7 +28,7 @@ Zamudio lab coding tips and tricks
 
 <br>
 
-**Downloading and installing software**
+##### Downloading and installing software
 
 Install software:
 
@@ -56,7 +56,7 @@ Retrieve web content:
 
 <br>
 
-**Navigating directories**
+##### Navigating directories
 
 See command line history:
 
@@ -64,7 +64,7 @@ See command line history:
 
 <br>
 
-**Viewing directories**
+##### Viewing directories
 
 Files in a directory, human-readable:
 
@@ -84,7 +84,7 @@ Size of files in directory, sorted by size (BioHPC):
 
 <br>
 
-**Viewing files**
+##### Viewing files
 
 View a file in terminal (only loads a portion of file in memory at a time):
 
@@ -104,7 +104,7 @@ Open a file in your default editor:
 
 <br>
 
-**Viewing program progress**
+##### Viewing program progress
 
 View all programs you have running:
 

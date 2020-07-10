@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Find help with:
 
 1. [Command line](#Command-line-basics)
-1. [Accessing Cornell BioHPC]()
+1. Accessing Cornell BioHPC
 1. [Slurm](https://github.com/caitmcdonald/parallel_computing/blob/master/slurm_scripting.md)
 1. [git and Github](https://github.com/caitmcdonald/Zamudio_git_intro/blob/master/README.md)
 1. [R tricks](#R-tricks)
@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-__Downloading and installing software__
+##### Downloading and installing software #####
 
 Install software:
 ```
@@ -65,7 +65,7 @@ curl -o "url[range]" -o <outputfile_#1.txt>
 
 <br>
 
-__Navigating directories__
+##### Navigating directories #####
 
 See command line history:
 ```
@@ -74,7 +74,7 @@ history
 <br>
 
 
-__Viewing directories__
+##### Viewing directories #####
 
 Files in a directory, human-readable:
 ```
@@ -95,7 +95,7 @@ lfs-du -h $DIR/* | sort -hr
 <br>
 
 
-__Viewing files__
+##### Viewing files #####
 
 View a file in terminal (only loads a portion of file in memory at a time):
 ```
@@ -116,7 +116,7 @@ edit <filename>
 <br>
 
 
-__Viewing program progress__
+##### Viewing program progress #####
 
 View all programs you have running:
 ```
